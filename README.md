@@ -5,6 +5,7 @@ A central platform connecting afforestation-focused NGOs with donors and volunte
 [![Save Trees](https://img.shields.io/badge/Save-Trees-green)](https://en.wikipedia.org/wiki/Afforestation)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Smyan-kishore/Afforestation-Website/commits/main)
 [![Built With](https://img.shields.io/badge/Built%20With-React%2C%20TypeScript%2C%20TailwindCSS-blue)](#-tech-stack)
+
 ---
 
 ## 🌟 Features
